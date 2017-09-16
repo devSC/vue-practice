@@ -1,6 +1,6 @@
 # todo-list
 
-> a todo list project with vue tec.
+> a todo list project to practice the vue tec. 
 
 ## Build Setup
 
